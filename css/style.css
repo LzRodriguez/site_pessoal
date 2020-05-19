@@ -1,3 +1,17 @@
 body{
     background: #adadad;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+}
+
+h1{
+    color: #34DEDE;
+}
+
+h2{
+    color: #8934DE;
+}
+
+p{
+    font-size: 18px;
 }
