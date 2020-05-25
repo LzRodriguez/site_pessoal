@@ -19,3 +19,16 @@ p{
 .navbar {
     background-color: #34DEDE;
 }
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-footer{
+    background-color: #cecece;
+}
+
+#home{
+    background-color: #929292;
+}
